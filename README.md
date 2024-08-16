@@ -34,10 +34,16 @@ The use of this dataset in the project marks a significant shift from traditiona
 
 # Steps Involved:
 
-Data collection using web scraping (from ESPN Cricinfo website).
-Data cleaning and transformation in Python Pandas.
-Data transformation in Power Query.
-Data modeling and parameter building using DAX.
-Building a dashboard in Power BI.
-Extracting insights from the dashboard to select the final XI players.
-The attached files, including the Power BI (.pbix) file, contain the results for the best playing XI.
+Data collection using web scraping (from ESPN Cricinfo website)
+
+Data cleaning and transformation in Python Pandas
+
+Data transformation in Power Query
+
+Data modeling and parameter building using DAX
+
+Building a dashboard in Power BI
+
+Extracting insights from the dashboard to select the final XI players
+
+The attached files, including the Power BI (.pbix) file, contain the results for the best playing XI
