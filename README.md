@@ -1,4 +1,7 @@
 # World-Cup-Data-Analytics
+
+Palithya Tejashwini - 210100104@iitb.ac.in
+
 In the world of cricket, selecting the best playing eleven for a match is a critical decision that can significantly influence the game's outcome. Traditionally, this selection process has relied on subjective assessments and limited data analysis. The absence of a systematic approach to player selection can result in suboptimal outcomes and missed opportunities.
 
 To tackle this challenge, this project leverages data-driven insights to enhance the process of selecting the final eleven players for a cricket match. The project involves a series of steps, including data collection, cleaning, transformation, modeling, and visualization. By employing advanced data analytics techniques, the project aims to provide a more objective and informed approach to cricket team selection. The goal is to identify the best-playing XI by analyzing data from the T20 World Cup 2022;
